@@ -1,16 +1,25 @@
-### Hi there 👋
+  
+<p align="center">
+  # Scott Mark
+</p>
 
-<!--
-**iScottMark/iScottMark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table align="center"><tr>
+<td valign="top" width="50%">
 
-Here are some ideas to get you started:
+### 我是谁？
+- [x] 爱生活
+- [x] 爱音乐
+- [x] 写代码 
+- [x] :smile:  
+   
+</td>
+<td valign="top" width="50%">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 看看我的仓库吧!
+- [Git 学习笔记](https://github.com/iScottMark/Learn_Git)
+- [2017 年全国大学生数学建模A题（国二）](https://github.com/iScottMark/2017CUMCM_A)
+- 未完待续
+- ......
+ 
+</td>
+</tr></table>
