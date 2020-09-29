@@ -1,7 +1,4 @@
-  
-<p align="center">
-  # Scott Mark
-</p>
+# Scott Mark
 
 <table align="center"><tr>
 <td valign="top" width="50%">
