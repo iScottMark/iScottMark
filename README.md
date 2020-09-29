@@ -1,13 +1,15 @@
-# Scott Mark
+<p align="center">
+**Scott Mark**
+</p> 
 
 <table align="center"><tr>
 <td valign="top" width="50%">
 
 ### 我是谁？
-- [x] 爱生活
-- [x] 爱音乐
-- [x] 写代码 
-- [x] :smile:  
+- 爱生活
+- 爱音乐
+- 写代码 
+- :smile:  
    
 </td>
 <td valign="top" width="50%">
@@ -20,3 +22,7 @@
  
 </td>
 </tr></table>
+
+---
+
+*人类社会之所以始终存在希望，是因为每当黑暗笼罩时，总有思想的先驱掏出燃烧的心举过头顶，拆下肋骨当火把，照亮前行的路。*
