@@ -1,5 +1,5 @@
 <p align="center">
-**Scott Mark**
+Scott Mark
 </p> 
 
 <table align="center"><tr>
