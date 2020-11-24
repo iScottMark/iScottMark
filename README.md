@@ -15,7 +15,7 @@
 ### 看看我的仓库吧!
 - [Git 学习笔记](https://github.com/iScottMark/Learn_Git)
 - [2017 年全国大学生数学建模A题（国二）](https://github.com/iScottMark/2017CUMCM_A)
-- 未完待续
+- [《Python 语言基础与应用》笔记](https://github.com/iScottMark/Learn_Py)
 - ......
  
 </td>
