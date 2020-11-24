@@ -1,6 +1,4 @@
-<p align="center">
-Scott Mark
-</p> 
+<h1 align="center">Scott Mark</h1>
 
 <table align="center"><tr>
 <td valign="top" width="50%">
